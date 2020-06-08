@@ -1,0 +1,16 @@
+urls:
+    app: https://example.app.com/login
+    tracker: https://docs.google.com/spreadsheets/d/<doc_id>
+credentials:
+    user: user@app-domain.com
+    password: password 
+metadata:
+    Name: 0
+    Image Id: 8
+    Description 1: 1
+    Description 2: 3
+    Tag line: 5
+poi:
+    start: 13
+experiences:
+    start: 29
